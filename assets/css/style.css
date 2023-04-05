@@ -4,7 +4,9 @@
     margin: 0;
 }
 
-/* Reorganized the CSS to match semantic HTML flow */
+/* 
+Reorganized the CSS to match semantic HTML flow 
+*/
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -17,7 +19,10 @@
     font-size: 48px;
 }
 
-.header h1 .seo { /* Changed .seo to an inline display for semantic HTML */
+.header h1 .seo { 
+    /* 
+    Changed .seo to an inline display for semantic HTML 
+    */
     display: inline;
     color: #d9dcd6;
     font-size: 48px;
@@ -78,7 +83,10 @@ p {
     margin-left: 25px;
 }
 
-.service-detail { /* Consolidated the CSS for the bottom section detailing Horiseon's services */
+.service-detail { 
+    /* 
+    Consolidated the CSS for the bottom section detailing Horiseon's services 
+    */
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -87,11 +95,17 @@ p {
     color:#ffffff;
 }
 
-.service-detail img { /* Class updated to account for .service-detail consolidation */
+.service-detail img { 
+    /* 
+    Class updated to account for .service-detail consolidation 
+    */
     max-height: 200px;
 }
 
-.service-detail h2 { /* Class updated to account for .service-detail consolidation */
+.service-detail h2 { 
+    /* 
+    Class updated to account for .service-detail consolidation 
+    */
     margin-bottom: 20px;
     font-size: 36px;
 }
@@ -107,21 +121,53 @@ p {
     background-color: #2589bd;
 }
 
-.benefit-text { /* Consolidated the text and icon CSS for the right-side section detailing the benefits */
+.benefit-text { 
+    /* 
+    Consolidated the text and icon CSS for the right-side section detailing the benefits 
+    */
     margin-bottom: 32px;
     color: #ffffff;
     text-align: left;
 }
 
-.benefit-text h3 { /* Class updated to account for .benefit-text consolidation */
+.benefit-text h3 { 
+    /* 
+    Class updated to account for .benefit-text consolidation 
+    */
     margin-bottom: 10px;
     text-align: center;
 }
 
-.benefit-text img { /* Class updated to account for .benefit-text consolidation */
+.benefit-text img { 
+    /* 
+    Class updated to account for .benefit-text consolidation 
+    */
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
 
-/* .footer removed to match HTML */
+.footer {
+    padding: 30px;
+    clear: both;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+}
+
+.footer h4 {
+    /*
+    h2 changed to h4 to match HTML changes
+    */
+    display: none;
+    /* 
+    Changed display to none to match HTML
+    */
+    font-size: 20px;
+}
+
+.footer p {
+    display: none;
+    /*
+    Added a .footer p class and set display to none to match HTML
+    */
+}
