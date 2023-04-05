@@ -13,6 +13,8 @@ This is a refactor of an existing webpage. This project aims to update the code 
 * Fixed issues with links not navigating to the correct anchor elements
 * Consolidated and reorganized CSS to mimic the flow of the HTML
 
-## Final Webpage Screenshot
-<img src="assets/images/final-screenshot.png">
+## Deployed Webpage Link
+<a href="https://hanwol525.github.io/01-Accessibility-Refactor/">Welcome to Horiseon!</a>
 
+## Deployed Webpage Screenshot
+<img src="assets/images/final-screenshot.png">
