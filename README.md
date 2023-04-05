@@ -14,7 +14,8 @@ This is a refactor of an existing webpage. This project aims to update the code 
 * Consolidated and reorganized CSS to mimic the flow of the HTML
 
 ## Mock-Up
-
+<img src="assets/images/mock-up.png">
 
 ## Final Webpage
+<img src="assets/images/final-screenshot.png">
 
