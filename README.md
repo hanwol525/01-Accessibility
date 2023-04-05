@@ -4,6 +4,10 @@
 
 This is a refactor of an existing webpage. This project aims to update the code to better align with current accessibility standards.
 
+## Starter Code
+Starter code located <a href="https://github.com/coding-boot-camp/urban-octo-telegram">here</a>
+Repository source: coding-boot-camp/urban-octo-telegram
+
 ## Updates
 
 * Changed HTML elements to semantic elements and organized HTML to mimic the flow of the mock-up
